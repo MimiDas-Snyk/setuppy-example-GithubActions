@@ -1,5 +1,5 @@
 # setuppy-example
 An example setup.py that has a Snyk action to check vulns
-Mimi is testing this during her onboarding training.
+Mimi is testing this during her onboarding training....
 
 
